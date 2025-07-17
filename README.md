@@ -10,7 +10,6 @@ A simple command-line task manager in Python.
 - List tasks by status
 - All tasks are saved to `tasks.json`
 
-````
 ### Arguments
 
 - `-a`, `--Add` — Add a new task
@@ -49,4 +48,4 @@ python main.py -l
 python main.py -l todo
 python main.py -l in-progress
 python main.py -l done
-````
+```
